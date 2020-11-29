@@ -1,0 +1,13 @@
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.csprojAssemblyReference.cache
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.csproj.CoreCompileInputs.cache
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.AssemblyInfoInputs.cache
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.AssemblyInfo.cs
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\bin\Debug\netcoreapp3.1\rush_hour.exe
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\bin\Debug\netcoreapp3.1\rush_hour.deps.json
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\bin\Debug\netcoreapp3.1\rush_hour.runtimeconfig.json
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\bin\Debug\netcoreapp3.1\rush_hour.runtimeconfig.dev.json
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\bin\Debug\netcoreapp3.1\rush_hour.dll
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\bin\Debug\netcoreapp3.1\rush_hour.pdb
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.dll
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.pdb
+C:\Users\tbuda\source\repos\rush_hour\rush_hour\obj\Debug\netcoreapp3.1\rush_hour.genruntimeconfig.cache
